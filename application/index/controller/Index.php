@@ -5,7 +5,7 @@ class Index
 {
     public function index()
     {
-        echo "一个简单的小测试";
+       echo "1478522";
     }
 
     public function hello($name = 'ThinkPHP5')
